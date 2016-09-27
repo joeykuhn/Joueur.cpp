@@ -1,8 +1,6 @@
 #ifndef GAMES_${underscore(game_name).upper()}_FWD_H
 #define GAMES_${underscore(game_name).upper()}_FWD_H
 
-// ${header}
-
 //include declarations for all of the internal classes in the game's namespace
 #include <memory>
 
